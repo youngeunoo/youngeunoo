@@ -6,7 +6,8 @@
 	
   </div>
 
-[![googlebard Badge](https://github.com/youngeunoo)]
+[![googlebard Badge](https://img.shields.io/badge/googlebard
+)](https://github.com/youngeunoo)
 
 <!--
 **youngeunoo/youngeunoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
