@@ -6,7 +6,7 @@
 	
   </div>
 
-[![googlebard](https://github.com/youngeunoo)
+[![googlebard](https://github.com/youngeunoo]
 
 <!--
 **youngeunoo/youngeunoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
